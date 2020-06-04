@@ -7,7 +7,7 @@ This music bot is written in python language you have to forward your musics to 
 
 1. First you need to make a bot with **@BotFather** bot in telegram
 2. After your bot is created you will get a token from **@BotFather**
-3. Open bot.py file with any text editor or professional editors (I recommand using VSCode)
+3. Open bot.py file with any text editor or professional editors (I recommend using VSCode)
 4. Search for **token = 'YOURTOKEN'** and replace your token with **YOURTOKEN**
 5. Now you have to setup your MySQL database in bot
 ```python
