@@ -26,7 +26,7 @@ mydb = mysql.connector.connect(
 id,username
 id,username
 ```
-10. paste your copied **id** here and **username is optional** it is just to remind you who you set to admin, you can use **NoUsername** instead but don't leave it empty.
+10. paste your copied **id** here and **username is optional** it is just to remind you who you set to admin, you can use **NoUsername** instead but don't leave it empty, **you can set how many admins you want.**
 * **Example**:
 ```python
 425562679,DrCodee
