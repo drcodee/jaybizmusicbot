@@ -50,9 +50,5 @@ Command | Usage
 
 [Telegram Channel](https://t.me/DrCodee)
 
-We will be thankful if you support our project:
-- حمایت از پروژه: [Support Us](https://idpay.ir/DrCodee)
-- Support this project: [Support Us](https://idpay.ir/DrCodee)
-
 - Telegram: [Join Telegram](https://t.me/DrCodee)
 - Instagram: [Follow Instagram](https://www.instagram.com/DrCodee)
