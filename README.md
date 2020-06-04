@@ -48,7 +48,5 @@ Command | Usage
 
 * This is version 1.0 of this bot, I will get this updating time to time, join our telegram channel to stay alert!
 
-[Telegram Channel](https://t.me/DrCodee)
-
-- Telegram: [Join Telegram](https://t.me/DrCodee)
+- Telegram: [Join Telegram Channel](https://t.me/DrCodee)
 - Instagram: [Follow Instagram](https://www.instagram.com/DrCodee)
